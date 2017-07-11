@@ -1,5 +1,5 @@
 class Phoneme():
-    """docstring for ."""
+    """docstring for Phoneme."""
     def __init_(self, arg):
         self.arg = arg
 
